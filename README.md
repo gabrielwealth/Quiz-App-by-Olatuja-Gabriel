@@ -9,7 +9,7 @@ link: https://github.com/gabrielwealth/Quiz-App-by-Olatuja-Gabriel/
 
 ## ABOUT THE APP
 
-More over, the APK if the app is hosted on G-Drive. To download the APK of the app go to:
+The APK of the app is hosted on G-Drive. To download the APK of the app go to: https://drive.google.com/open?id=1phrf5iovufNI235Z57h-aFsz6bkxyH6A 
 The app has only three activities: for welcome, Quiz questions and exam summary, which finally intent to send summary to email.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
